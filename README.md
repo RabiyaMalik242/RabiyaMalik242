@@ -49,7 +49,7 @@
 ---
 
 ### 📱 Mobile App Development
-![Android_App_Development](https://img.shields.io/badge/Android_App_Developmen-8A2BE2?style=for-the-badge&logo=Android_App_Developmen&logoColor=white)
+![Android_App_Development](https://img.shields.io/badge/Android_App_Development-8A2BE2?style=for-the-badge&logo=Android_App_Development&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-8A2BE2?style=for-the-badge&logo=java&logoColor=white)
 
 ---
@@ -89,6 +89,11 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=RabiyaMalik242&repo=speech-emotion-recognition-cnn&theme=midnight-purple" />
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=RabiyaMalik242&repo=health-query-chatbot-llm&theme=midnight-purple" />
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=RabiyaMalik242&repo=heart-disease-prediction-ml&theme=midnight-purple" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=RabiyaMalik242&repo=house-price-prediction-ames&theme=midnight-purple" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=RabiyaMalik242&repo=Health-Goal-Tracking-Application&theme=midnight-purple" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=RabiyaMalik242&repo=Personal-Finance-Management-System&theme=midnight-purple" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=RabiyaMalik242&repo=Freelancer-Job-Matching-System&theme=midnight-purple" />
+  
   
 </p>
 
