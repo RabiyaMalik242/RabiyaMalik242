@@ -65,10 +65,6 @@
 - Deep learning model analyzing audio emotions
 - Uses MFCC features + CNN
 
-### 🛡️ Cybersecurity AI Project (Coming Soon)
-- Intrusion detection using ML
-- Network anomaly detection system
-
 ---
 
 ## 📈 Contribution Graph
