@@ -50,7 +50,7 @@
 
 ### 📱 Mobile App Development
 ![Android_App_Development](https://img.shields.io/badge/Android_App_Development-8A2BE2?style=for-the-badge&logo=Android_App_Development&logoColor=white)
-![Java](https://img.shields.io/badge/Java-8A2BE2?style=for-the-badge&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/Java-4B0082?style=for-the-badge&logo=java&logoColor=white)
 
 ---
 
