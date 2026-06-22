@@ -44,13 +44,13 @@
 ### 🌐 Web Development
 ![HTML5](https://img.shields.io/badge/HTML5-8A2BE2?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-7B68EE?style=for-the-badge&logo=css3&logoColor=white)
-![Javascript](https://img.shields.io/badge/React-6A5ACD?style=for-the-badge&logo=react&logoColor=white)
+![Javascript](https://img.shields.io/badge/Javascript-6A5ACD?style=for-the-badge&logo=javascript&logoColor=white)
 
 ---
 
 ### 📱 Mobile App Development
-![Flutter](https://img.shields.io/badge/Flutter-8A2BE2?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-7B68EE?style=for-the-badge&logo=dart&logoColor=white)
+![Android_App_Development](https://img.shields.io/badge/Android_App_Developmen-8A2BE2?style=for-the-badge&logo=Android_App_Developmen&logoColor=white)
+![Java](https://img.shields.io/badge/Java-8A2BE2?style=for-the-badge&logo=java&logoColor=white)
 
 ---
 
@@ -85,8 +85,11 @@
 ## 🚀 Featured Repositories
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=RabiyaMalik242&repo=handwritten-digit-recognition&theme=midnight-purple" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=RabiyaMalik242&repo=speech-emotion-recognition&theme=midnight-purple" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=RabiyaMalik242&repo=MNIST-CNN-Project&theme=midnight-purple" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=RabiyaMalik242&repo=speech-emotion-recognition-cnn&theme=midnight-purple" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=RabiyaMalik242&repo=health-query-chatbot-llm&theme=midnight-purple" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=RabiyaMalik242&repo=heart-disease-prediction-ml&theme=midnight-purple" />
+  
 </p>
 
 ---
