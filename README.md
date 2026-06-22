@@ -1,6 +1,6 @@
-<!-- HEADER BANNER -->
+<!-- HEADER BANNER (PURPLE THEME) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Welcome%20to%20My%20GitHub%20Profile!&fontSize=35&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4b0082,100:8a2be2&height=200&section=header&text=Welcome%20to%20My%20GitHub%20Profile!&fontSize=35&fontColor=ffffff" />
 </p>
 
 ---
@@ -11,46 +11,69 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">
 </p>
 
-🎯 AI / ML Enthusiast | 💻 Computer Vision Developer | 🚀 Problem Solver  
+🎯 Software Engineer | 🤖 AI / ML Engineer | 💻 Full-Stack Developer | 🚀 Problem Solver  
 
 ---
 
 ## 🧠 About Me
 
-- 🔭 Currently working on **Computer Vision & Deep Learning Projects**
-- 🌱 Learning **Advanced CNNs, Transformers & AI for Cybersecurity**
-- 💡 Interested in **Defense AI, Security Systems & Smart Surveillance**
-- 🎓 Building real-world ML projects with Python & OpenCV
-- ⚡ Fun fact: I love turning data into intelligent systems
+- 🔭 Working on **AI, Computer Vision & Full-Stack Applications**
+- 🌱 Learning **Advanced Deep Learning, System Design & Scalable Apps**
+- 💡 Interested in **Defense AI, Cybersecurity & Intelligent Systems**
+- 💻 Building **real-world software products & ML systems**
+- ⚡ Fun fact: I enjoy turning complex problems into clean engineering solutions
 
 ---
 
 ## 🚀 Tech Stack
 
 ### 👨‍💻 Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-4B8BBE?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-6A5ACD?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-8A2BE2?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-7B68EE?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-9370DB?style=for-the-badge&logo=postgresql&logoColor=white)
+
+---
+
+### 🌐 Web Development
+![HTML5](https://img.shields.io/badge/HTML5-8A2BE2?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-7B68EE?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-6A5ACD?style=for-the-badge&logo=react&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-4B0082?style=for-the-badge&logo=node.js&logoColor=white)
+
+---
+
+### 📱 Mobile App Development
+![Flutter](https://img.shields.io/badge/Flutter-8A2BE2?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-7B68EE?style=for-the-badge&logo=dart&logoColor=white)
+
+---
 
 ### 🤖 AI / ML / DL
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-6A5ACD?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-8A2BE2?style=for-the-badge&logo=keras&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-9370DB?style=for-the-badge&logo=opencv&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-4B0082?style=for-the-badge&logo=jupyter&logoColor=white)
 
-### 🛠 Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+---
+
+### 🛠 Tools & Platforms
+![Git](https://img.shields.io/badge/Git-7B68EE?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-4B0082?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-6A5ACD?style=for-the-badge&logo=linux&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-8A2BE2?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RabiyaMalik242&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RabiyaMalik242&show_icons=true&theme=midnight-purple" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rabiya Malik242&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RabiyaMalik242&theme=midnight-purple" />
 </p>
 
 ---
@@ -58,12 +81,16 @@
 ## 🔥 Featured Projects
 
 ### 🧠 Handwritten Digit Recognition
-- CNN-based model trained on MNIST
-- Real-time digit prediction
+- CNN model trained on MNIST dataset
+- Real-time digit prediction system
 
 ### 🎤 Speech Emotion Recognition
-- Deep learning model analyzing audio emotions
-- Uses MFCC features + CNN
+- Deep learning model using CNN/LSTM
+- Audio feature extraction using MFCC
+
+### 🛡️ AI Security System (In Progress)
+- Intrusion detection using ML models
+- Cybersecurity-based anomaly detection
 
 ---
 
@@ -79,10 +106,10 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rabiya-malik-325848336/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:YOUR_EMAIL">
-    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail" />
+    <img src="https://img.shields.io/badge/Gmail-6A5ACD?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
@@ -91,13 +118,13 @@
 ## 💡 Quote
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
 
 ---
 
 <p align="center">
-  <b>⭐ "Turning AI ideas into real-world intelligent systems" ⭐</b>
+  <b>⭐ "Engineering intelligent systems that solve real-world problems" ⭐</b>
 </p>
 
 <p align="center">
