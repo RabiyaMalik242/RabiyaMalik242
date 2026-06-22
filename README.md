@@ -43,14 +43,14 @@
 
 ### 🌐 Web Development
 ![HTML5](https://img.shields.io/badge/HTML5-8A2BE2?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-7B68EE?style=for-the-badge&logo=css3&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-4B0082?style=for-the-badge&logo=css3&logoColor=white)
 ![Javascript](https://img.shields.io/badge/Javascript-6A5ACD?style=for-the-badge&logo=javascript&logoColor=white)
 
 ---
 
 ### 📱 Mobile App Development
 ![Android_App_Development](https://img.shields.io/badge/Android_App_Development-8A2BE2?style=for-the-badge&logo=Android_App_Development&logoColor=white)
-![Java](https://img.shields.io/badge/Java-4B0082?style=for-the-badge&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/Java-6A5ACD?style=for-the-badge&logo=java&logoColor=white)
 
 ---
 
