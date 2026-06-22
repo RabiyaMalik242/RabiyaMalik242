@@ -11,17 +11,22 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">
 </p>
 
-🎯 Software Engineer | 🤖 AI / ML Engineer | 💻 Full-Stack Developer | 🚀 Problem Solver  
+<!-- ANIMATED TYPING INTRO -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=8A2BE2&center=true&vCenter=true&width=750&lines=AI+%2F+ML+Engineer;Computer+Vision+Developer;Full-Stack+Software+Engineer;Mobile+App+Developer;Cybersecurity+%26+Defense+AI+Explorer;Building+Real-World+Intelligent+Systems" />
+</p>
+
+🎯 Software Engineer | 🤖 AI / ML Engineer | 💻 Full-Stack Developer | 📱 Mobile App Developer | 🚀 Problem Solver  
 
 ---
 
 ## 🧠 About Me
 
-- 🔭 Working on **AI, Computer Vision & Full-Stack Applications**
-- 🌱 Learning **Advanced Deep Learning, System Design & Scalable Apps**
+- 🔭 Working on **AI, Computer Vision, Full-Stack & Mobile Applications**
+- 🌱 Learning **Advanced Deep Learning, System Design & Scalable Architectures**
 - 💡 Interested in **Defense AI, Cybersecurity & Intelligent Systems**
-- 💻 Building **real-world software products & ML systems**
-- ⚡ Fun fact: I enjoy turning complex problems into clean engineering solutions
+- 💻 Building **real-world software products and ML-powered applications**
+- ⚡ Fun fact: I enjoy turning complex problems into scalable engineering solutions
 
 ---
 
@@ -78,26 +83,19 @@
 
 ---
 
-## 🔥 Featured Projects
+## 🚀 Featured Repositories
 
-### 🧠 Handwritten Digit Recognition
-- CNN model trained on MNIST dataset
-- Real-time digit prediction system
-
-### 🎤 Speech Emotion Recognition
-- Deep learning model using CNN/LSTM
-- Audio feature extraction using MFCC
-
-### 🛡️ AI Security System (In Progress)
-- Intrusion detection using ML models
-- Cybersecurity-based anomaly detection
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=RabiyaMalik242&repo=handwritten-digit-recognition&theme=midnight-purple" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=RabiyaMalik242&repo=speech-emotion-recognition&theme=midnight-purple" />
+</p>
 
 ---
 
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RabiyaMalik242&theme=react-dark" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RabiyaMalik242&theme=react-dark&bg_color=0d1117&color=8A2BE2&line=8A2BE2&point=ffffff" />
 </p>
 
 ---
@@ -124,7 +122,7 @@
 ---
 
 <p align="center">
-  <b>⭐ "Engineering intelligent systems that solve real-world problems" ⭐</b>
+  <b>⭐ Engineering intelligent systems that solve real-world problems ⭐</b>
 </p>
 
 <p align="center">
