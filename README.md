@@ -70,7 +70,7 @@
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RabiyaMalik242&theme=react-dark" />
 </p>
 
 ---
@@ -78,7 +78,7 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="[https://linkedin.com/in/YOUR_LINK](https://www.linkedin.com/in/rabiya-malik-325848336/)">
+  <a href="https://www.linkedin.com/in/rabiya-malik-325848336/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="mailto:YOUR_EMAIL">
