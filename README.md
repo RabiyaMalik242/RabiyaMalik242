@@ -5,7 +5,7 @@
 
 ---
 
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm Rabiya Malik
 
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">
@@ -63,7 +63,7 @@
 
 ### 🎤 Speech Emotion Recognition
 - Deep learning model analyzing audio emotions
-- Uses MFCC features + LSTM
+- Uses MFCC features + CNN
 
 ### 🛡️ Cybersecurity AI Project (Coming Soon)
 - Intrusion detection using ML
@@ -82,7 +82,7 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINK">
+  <a href="[https://linkedin.com/in/YOUR_LINK](https://www.linkedin.com/in/rabiya-malik-325848336/)">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="mailto:YOUR_EMAIL">
