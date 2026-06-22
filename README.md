@@ -13,10 +13,10 @@
 
 <!-- ANIMATED TYPING INTRO -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=8A2BE2&center=true&vCenter=true&width=750&lines=AI+%2F+ML+Engineer;Computer+Vision+Developer;Full-Stack+Software+Engineer;Mobile+App+Developer;Cybersecurity+%26+Defense+AI+Explorer;Building+Real-World+Intelligent+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=8A2BE2&center=true&vCenter=true&width=750&lines=AI+%2F+ML+Engineer;Software+Engineer;Mobile+App+Developer;Cybersecurity+%26+Defense+AI+Explorer;Building+Real-World+Intelligent+Systems" />
 </p>
 
-🎯 Software Engineer | 🤖 AI / ML Engineer | 💻 Full-Stack Developer | 📱 Mobile App Developer | 🚀 Problem Solver  
+🎯 Software Engineer | 🤖 AI / ML Engineer | 📱 Mobile App Developer | 🚀 Problem Solver  
 
 ---
 
@@ -44,8 +44,7 @@
 ### 🌐 Web Development
 ![HTML5](https://img.shields.io/badge/HTML5-8A2BE2?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-7B68EE?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-6A5ACD?style=for-the-badge&logo=react&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-4B0082?style=for-the-badge&logo=node.js&logoColor=white)
+![Javascript](https://img.shields.io/badge/React-6A5ACD?style=for-the-badge&logo=react&logoColor=white)
 
 ---
 
